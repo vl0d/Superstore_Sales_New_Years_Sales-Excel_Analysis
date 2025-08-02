@@ -2,7 +2,8 @@
 
 ## Introduction
 
-![New Year's Sales - Dashboard](https://github.com/user-attachments/assets/2b540145-3bc8-40c6-8391-6f59e2f8af5b)
+<img src="https://github.com/user-attachments/assets/2b540145-3bc8-40c6-8391-6f59e2f8af5b" width="1000"/>
+
 
 Using Excel, I analyzed a Superstore Sales dataset covering data from 2015 to 2018. My goal was to identify opportunities to increase sales in the upcoming year (in this scenario, 2019).
 
@@ -36,13 +37,13 @@ The dataset contains transactional data from a retail Superstore between 2015 an
 
 ### 📈 Sales Growth Over the Years
 
-![1](https://github.com/user-attachments/assets/e9762452-ee7a-40cd-90ee-6cd1a40abe1a)
+<img src="https://github.com/user-attachments/assets/e9762452-ee7a-40cd-90ee-6cd1a40abe1a" width="800"/>
 
 Using formulas, I calculated the total sales for each year. The results revealed a consistent upward trend in overall performance.
 
 ### 📉 Monthly Sales Fluctuation
 
-![2](https://github.com/user-attachments/assets/9c8edb30-dbf4-477f-bfa2-a2fe5495a7cc)
+<img src="https://github.com/user-attachments/assets/9c8edb30-dbf4-477f-bfa2-a2fe5495a7cc" width="800"/>
 
 Despite the overall growth, sales dropped dramatically every January and February. This seasonal decline indicated a missed opportunity during a post-holiday slump.  
 **Solution:** Launch a *"New Year's Sales"* campaign during these months to stimulate demand.
@@ -57,7 +58,7 @@ Using Pivot Tables, I identified both high- and low-performing products based on
 - **Bottom 5 worst-selling products** → 20% discount (encourage demand)  
 - **All other products** → 10% discount (moderate incentive)
 
-![3](https://github.com/user-attachments/assets/dbaae809-d422-43ec-89e5-7db081c84cdf)
+<img src="https://github.com/user-attachments/assets/dbaae809-d422-43ec-89e5-7db081c84cdf" width="800"/>
 
 This approach ensures profitability while boosting sales for underperforming products.
 
@@ -65,7 +66,7 @@ This approach ensures profitability while boosting sales for underperforming pro
 
 Historically, the store experienced an average **annual growth of 15%** with full-priced products. Assuming a modest 25% boost in sales **only for discounted items**, the campaign could raise **total yearly sales by approximately 7%**.
 
-![4](https://github.com/user-attachments/assets/7e6a9eba-1671-4e53-bd0d-7555c9ad88d1)
+<img src="https://github.com/user-attachments/assets/7e6a9eba-1671-4e53-bd0d-7555c9ad88d1" width="800"/>
 
 ## ✅ Conclusion
 
